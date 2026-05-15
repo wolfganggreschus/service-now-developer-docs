@@ -16,6 +16,7 @@ Die Build-Ergebnisse werden im Verzeichnis „dist/app" ausgegeben, einschließl
 
 
 ## Synchronisation mit der ServiceNow-Plattform
+Die Information, mit welcher App die Synchronisation durchgeführt wird, steht in der Datei `now.config.json`.
 
 ### ServiceNow → lokaler Code (Transform)
 ```bash
